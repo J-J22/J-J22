@@ -1,7 +1,7 @@
-- 👋 Hi, I’m jai
+- 👋 Hi, I’m Jai
 - 👀 I’m interested in Full stack dev.
-- 🌱 I’m currently learning full stack (JS)
-- 💞️ I’m not espacially looking to collaborate 
+- 🌱 I’m currently learning Quantitative Development
+- 💞️ I’m espacially looking to collaborate and learn as we build
 - 📫 How to reach me jaiworkd234m@gmail.com
 
 <!---
