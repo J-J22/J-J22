@@ -1,42 +1,23 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/banner-dark.gif">
-  <img alt="JoC, jaiwardhan joshi, cse @ jecrc, jaipur" src="https://raw.githubusercontent.com/J-J22/J-J22/main/banner-light.gif">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/banner-dark.gif"><img alt="JoC, jaiwardhan joshi, cse @ jecrc, jaipur" src="https://raw.githubusercontent.com/J-J22/J-J22/main/banner-light.gif" width="100%"></picture>
 
-Hey, I'm Jai, I go by JoC here
+Hey, I'm Jai, I go by JoC here. Second year CSE at JECRC in Jaipur, Learning Cloud Computing, Making Projects hackathons all at once so yeah... busy
 
-Second year cse at jecrc in Jaipur. Right now I'm doing aws (going for the solutions architect cert), dsa in c++, college stuff and a hackathon all at once so yeah… busy
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-projects-dark.gif"><img alt="projects" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-projects-light.gif" width="100%"></picture>
 
-### Stuff I made
+<a href="https://github.com/J-J22/reiatsuflow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-reiatsuflow-dark.gif"><img alt="ReiatsuFlow, study planner for linux" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-reiatsuflow-light.gif" width="50%"></picture></a><a href="https://github.com/J-J22/smriti"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-smriti-dark.gif"><img alt="Smriti, offline app for dementia care" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-smriti-light.gif" width="50%"></picture></a><a href="https://github.com/J-J22/Vision"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-vision-dark.gif"><img alt="Vision, ai agents from idea to deployment" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-vision-light.gif" width="50%"></picture></a><a href="https://j-j22.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-portfolio-dark.gif"><img alt="Portfolio, my pixel site" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/card-portfolio-light.gif" width="50%"></picture></a>
 
-**[ReiatsuFlow](https://github.com/J-J22/reiatsuflow)** my study planner for linux, it turns my lists into a few tasks a day so I don't quit after 3 days lol<br>
-**[Smriti](https://github.com/J-J22/smriti)** an offline app for elders with dementia in north east india, built it for an sih problem statement<br>
-**[Vision](https://github.com/J-J22/Vision)** a team of ai agents that takes an app idea all the way to deployment, got to the finals at ju techfest<br>
-**[Portfolio](https://github.com/J-J22/J-J22.github.io)** my site, pixel art and bleach themed obviously, it's up at [j-j22.github.io](https://j-j22.github.io)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-quest-log-dark.gif"><img alt="quest log" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-quest-log-light.gif" width="100%"></picture>
 
-### What I'm on right now
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/quests-dark.gif"><img alt="AWS SAA feb 2027, Leetcode 500, hackathon build dec 2026, http server on the side" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/quests-light.gif" width="100%"></picture>
 
-Aws saa is the big one, I'm aiming to sit it in feb 2027 so it's a bit every day till then. Dsa is the gfg sheet in c++, slow but I'm getting there ig
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-inventory-dark.gif"><img alt="inventory" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-inventory-light.gif" width="100%"></picture>
 
-I'm also building something for a hackathon in december, it helps creators keep track of their deals and actually get paid. Repo's private till the hackathon's over
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/inventory-dark.gif"><img alt="python, c++, c, java, bash, git, aws, linux. targets Leetcode 500, AWS SAA. arch + hyprland, bleach rice" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/inventory-light.gif" width="100%"></picture>
 
-And on the side I'm doing the codecrafters http server in c++, first time I actually get what a server does with a request lol
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-contributions-dark.gif"><img alt="contributions" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-contributions-light.gif" width="100%"></picture>
 
-### My setup
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/output/github-snake-dark.svg"><img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/J-J22/J-J22/output/github-snake.svg" width="100%"></picture>
 
-Arch with hyprland and the whole thing is bleach themed. The wallpaper cycles through characters and my planner changes colour with it… I spend way too much time on this
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-find-me-dark.gif"><img alt="find me" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/h-find-me-light.gif" width="100%"></picture>
 
-### Things I use
-
-Python, c++, c, java, bash, linux (arch + hyprland), git and aws. Learning typescript, node, sql and docker right now
-
-### My contributions getting eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/output/github-snake-dark.svg">
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/J-J22/J-J22/output/github-snake.svg">
-</picture>
-
-### Find me
-
-[LinkedIn](https://www.linkedin.com/in/joc22/) · [portfolio](https://j-j22.github.io) · jaiwardhanjoshi@gmail.com
+<a href="https://www.linkedin.com/in/joc22/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/btn-linkedin-dark.gif"><img alt="linkedin" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/btn-linkedin-light.gif" width="22.82%"></picture></a><a href="https://j-j22.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/btn-portfolio-dark.gif"><img alt="portfolio" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/btn-portfolio-light.gif" width="24.76%"></picture></a><a href="mailto:jaiwardhanjoshi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/btn-email-dark.gif"><img alt="jaiwardhanjoshi@gmail.com" src="https://raw.githubusercontent.com/J-J22/J-J22/main/assets/btn-email-light.gif" width="16.99%"></picture></a>
